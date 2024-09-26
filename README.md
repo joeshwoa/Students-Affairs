@@ -1,3 +1,5 @@
+<img src="https://skillicons.dev/icons?i=django,powershell,html,css,js,py" />
+<br>
 # Students Affairs
 Students Affairs is a web-based application built with Django, designed to help educational institutions manage student data, course enrollments, attendance, and grades efficiently. The platform provides a user-friendly interface for administrators, teachers, and students to access important academic information in one place, improving overall communication and record management.
 
