@@ -1,4 +1,4 @@
-<img src="https://skillicons.dev/icons?i=django,powershell,html,css,js,py" />
+<img src="https://skillicons.dev/icons?i=django,html,css,js,py" />
 <br>
 
 # Students Affairs
